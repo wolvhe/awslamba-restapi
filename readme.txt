@@ -1,0 +1,1 @@
+created a CRUD REST API using dynamoDB, AWS Lambda and API Gateway.
